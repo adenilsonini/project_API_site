@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Project_API_SJP</name>
+    </assembly>
+    <members>
+        <member name="M:Project_API_SJP.Controllers.v1.CadUserController.GetAllJogos(System.Int32,System.Int32)">
+            <summary>
+            Lista todos os Usuario cadastrados no banco de dados
+            </summary>
+            <remarks>
+            Não é possível retornar o Usuario sem paginação
+            </remarks>
+            <param name="pagina">Indica qual página está sendo consultada: Mínimo 1</param>
+            <param name="qtde">Indica a quantidade de registros por página: Mínimo 1 e máximo 5</param>
+            <response code="200">Retorna a lista de usuario</response>
+            <response code="204">Retorna se não houver nenhum usuario cadastrado</response>
+        </member>
+        <member name="M:Project_API_SJP.Controllers.v1.CadUserController.GetByIdUser(System.Int32)">
+             <summary>
+             Pesquisa usuario por Id
+             </summary>
+             <remarks>
+             O Id do usuario é obrigatório na Consulta
+             </remarks>
+            
+        </member>
+        <member name="M:Project_API_SJP.Controllers.v1.CadUserController.post(Project_API_SJP.Models.User)">
+            <summary>
+            Rotina para Cadastra Novo usuario
+            </summary>
+            <remarks>
+            O campo de Nome usuario, paswword e email são obrigatórios.
+            O campo senha deve ser de no mínimo 6 caracter.
+            </remarks>
+            
+        </member>
+        <member name="M:Project_API_SJP.Controllers.v1.CadUserController.Updateuser(System.Int32,Project_API_SJP.Models.User)">
+            <summary>
+            Rotina para Alterar o Cadastro do usuario
+            </summary>
+            <remarks>
+            Obrigatórios Informar o Id para alterar as informações do usuario
+            </remarks>
+            
+        </member>
+        <member name="M:Project_API_SJP.Controllers.v1.CadUserController.Update_password(System.Int32,System.String)">
+            <summary>
+            Rotina para alterar somente o preço do usuario
+            </summary>
+            <remarks>
+            Obrigatórios informar o ID para atualizar a senha
+            </remarks>
+            
+        </member>
+        <member name="M:Project_API_SJP.Controllers.v1.CadUserController.ExcluirJogos(System.Int32)">
+            <summary>
+            Rotina para Excluir o usuario cadastrado
+            </summary>
+            <remarks>
+            Obrigatórios informar o Id do usuario para excluir
+            </remarks>
+            
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,140 @@
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\appsettings.json
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.exe
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.deps.json
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.runtimeconfig.json
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.runtimeconfig.dev.json
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\ref\Project_API_SJP.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.pdb
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.xml
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.csprojAssemblyReference.cache
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.AssemblyInfoInputs.cache
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.AssemblyInfo.cs
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.csproj.CoreCompileInputs.cache
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\staticwebassets\Project_API_SJP.StaticWebAssets.Manifest.cache
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\staticwebassets\Project_API_SJP.StaticWebAssets.xml
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\scopedcss\bundle\Project_API_SJP.styles.css
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.RazorTargetAssemblyInfo.cache
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.csproj.CopyComplete
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\ref\Project_API_SJP.dll
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.pdb
+C:\Users\adeni\source\repos\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.genruntimeconfig.cache
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\appsettings.Development.json
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\appsettings.json
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.exe
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.deps.json
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.runtimeconfig.json
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.runtimeconfig.dev.json
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\ref\Project_API_SJP.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.pdb
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Project_API_SJP.xml
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.csprojAssemblyReference.cache
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.AssemblyInfoInputs.cache
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.AssemblyInfo.cs
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.csproj.CoreCompileInputs.cache
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.MvcApplicationPartsAssemblyInfo.cs
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.MvcApplicationPartsAssemblyInfo.cache
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\staticwebassets\Project_API_SJP.StaticWebAssets.Manifest.cache
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\staticwebassets\Project_API_SJP.StaticWebAssets.xml
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\scopedcss\bundle\Project_API_SJP.styles.css
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.RazorTargetAssemblyInfo.cache
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.csproj.CopyComplete
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\ref\Project_API_SJP.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.pdb
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\obj\Debug\net5.0\Project_API_SJP.genruntimeconfig.cache
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\AutoMapper.dll
+D:\projetos vb\React\Project_API_SJP\Project_API_SJP\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
